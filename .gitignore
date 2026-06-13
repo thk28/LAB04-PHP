@@ -1,0 +1,4 @@
+/vendor/
+storage/registrations.json
+.env
+.DS_Store
